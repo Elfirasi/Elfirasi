@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Firasi Oussama</h1>
 <h3 align="center">📊 Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 <img align="right" width="400px" src="./images/CodingWork.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfirasi&label=Profile%20views&color=0e75b6&style=flat" alt="elfirasi" /> </p>
 
 - 🔭 I’m currently working on **OF Chatbot**
