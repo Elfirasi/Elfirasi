@@ -25,8 +25,8 @@
 
 <hr/>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=elfirasi&show_icons=true&theme=hacker&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elfirasi&theme=hacker">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=elfirasi&show_icons=true&theme=github_dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elfirasi&theme=github_dark">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfirasi&show_icons=true&locale=en" alt="elfirasi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfirasi&show_icons=true&locale=en&theme=github_dark" alt="elfirasi" /></p>
