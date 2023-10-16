@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm El Firasi Oussama</h1>
+<h1 align="center">Hi 👋, I'm El Firasi Oussama.</h1>
 <h3 align="center">📊 Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 <img align="right" width="400px" src="https://github.com/Elfirasi/Elfirasi/blob/c8608d19be45dab6ac8755b1d6d0f8e59f394ade/assets/CodingWork.gif"/>
 
